@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table.vue renders correctly 1`] = `
+<div>
+  <div
+    class="table-responsive bg-white"
+  >
+    <table
+      class="table table-bordered table-hover"
+    >
+      <thead
+        class="thead-light"
+      >
+        <tr>
+          <th
+            class="cursor-pointer"
+            tabindex="0"
+          >
+            <span>
+              Last name
+            </span>
+             
+            <!---->
+          </th>
+          <th
+            class="cursor-pointer"
+            tabindex="0"
+          >
+            <span>
+              First name
+            </span>
+             
+            <!---->
+          </th>
+          <th
+            class="cursor-pointer"
+            tabindex="0"
+          >
+            <span>
+              Email
+            </span>
+             
+            <!---->
+          </th>
+          <th
+            class="cursor-pointer"
+            tabindex="0"
+          >
+            <span>
+              Language
+            </span>
+             
+            <!---->
+          </th>
+          <th
+            class="cursor-pointer"
+            tabindex="0"
+          >
+            <span>
+              State
+            </span>
+             
+            <!---->
+          </th>
+          <th
+            class="cursor-pointer"
+            tabindex="0"
+          >
+            <span>
+              Qualtrics
+            </span>
+             
+            <!---->
+          </th>
+          <th
+            class=""
+          >
+            <span>
+              Edit
+            </span>
+             
+            <!---->
+          </th>
+        </tr>
+      </thead>
+       
+      <span
+        tag="tbody"
+      >
+        <tr>
+          <td>
+            First
+          </td>
+          <td>
+            John
+          </td>
+          <td>
+            John.first@example.com
+          </td>
+          <td
+            class="text-uppercase"
+          >
+            <badge-stub
+              value="FR"
+            />
+          </td>
+          <td>
+            <badge-stub
+              value="Not notified,badge-warning"
+            />
+          </td>
+          <td>
+            <!---->
+          </td>
+          <td>
+            <action-stub
+              action="edit"
+              value="/m/members/1/update/"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Second
+          </td>
+          <td>
+            John
+          </td>
+          <td>
+            John.second@example.com
+          </td>
+          <td
+            class="text-uppercase"
+          >
+            <badge-stub
+              value="EN"
+            />
+          </td>
+          <td>
+            <badge-stub
+              value="Active,badge-success"
+            />
+          </td>
+          <td>
+            <!---->
+          </td>
+          <td>
+            <action-stub
+              action="edit"
+              value="/m/members/2/update/"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Third
+          </td>
+          <td>
+            John
+          </td>
+          <td>
+            John.third@example.com
+          </td>
+          <td
+            class="text-uppercase"
+          >
+            <badge-stub
+              value="EN"
+            />
+          </td>
+          <td>
+            <badge-stub
+              value="Active,badge-success"
+            />
+          </td>
+          <td>
+            <!---->
+          </td>
+          <td>
+            <action-stub
+              action="edit"
+              value="/m/members/3/update/"
+            />
+          </td>
+        </tr>
+      </span>
+    </table>
+  </div>
+</div>
+`;

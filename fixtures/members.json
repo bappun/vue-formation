@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "last_name": "First",
+    "first_name": "John",
+    "email": "John.first@example.com",
+    "language": "FR",
+    "qualtrics": false,
+    "state_label": [
+      "Not notified",
+      "badge-warning"
+    ],
+    "edit": "/m/members/1/update/"
+  },
+  {
+    "id": 2,
+    "last_name": "Second",
+    "first_name": "John",
+    "email": "John.second@example.com",
+    "language": "EN",
+    "qualtrics": true,
+    "state_label": [
+      "Active",
+      "badge-success"
+    ],
+    "edit": "/m/members/2/update/"
+  },
+  {
+    "id": 3,
+    "last_name": "Third",
+    "first_name": "John",
+    "email": "John.third@example.com",
+    "language": "EN",
+    "qualtrics": true,
+    "state_label": [
+      "Active",
+      "badge-success"
+    ],
+    "edit": "/m/members/3/update/"
+  }
+]
